@@ -1,0 +1,5 @@
+Tutorial:gf:1
+lazered:lazer:1
+beamed:lazer:1
+cracked:lazer:1
+toowell:lazer:1
